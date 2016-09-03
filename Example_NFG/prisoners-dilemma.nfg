@@ -1,0 +1,14 @@
+NFG 1 R "Prisoners' Dilemma" { "P1" "P2" }
+
+{
+{ "Confess" "Not Confess" }
+{ "Confess" "Not Confess" }
+}
+
+{
+{ "C C" -5, -5 }
+{ "NC C" -1, -10 }
+{ "C NC" -10, -1 }
+{ "NC NC" -2, -2 }
+}
+1 2 3 4
